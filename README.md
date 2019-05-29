@@ -19,3 +19,5 @@ The configuration of the neural network can be found here:
 *https://github.com/pjreddie/darknet/blob/master/data/coco.names
 
 All three files must be placed in a folder called "data" in the cmake directory
+
+![Screenshot](Exple.png)
